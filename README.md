@@ -49,7 +49,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 - **[UCD Resume](https://github.com/wgwhitecoding/UCD-Resume)**  
   A resume-focused project highlighting my career and achievements.
 
-- **[Crew Weather](https://github.com/wgwhitecoding/crew-weather)**  
+- **[Crew Weather](https://github.com/ChrissyLV/crew-weather))**  
   A weather application that provides real-time weather updates for crew members.
 
 - **[Scubi Steve](https://github.com/wgwhitecoding/scubisteve)**  
