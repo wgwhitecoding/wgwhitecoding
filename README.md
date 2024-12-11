@@ -52,13 +52,13 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 - **[Crew Weather](https://github.com/wgwhitecoding/crew-weather)**  
   A weather application that provides real-time weather updates for crew members.
 
-- **[Scuba Steve](https://github.com/wgwhitecoding/Scuba-Steve)**  
+- **[Scuba Steve](https://github.com/wgwhitecoding/scubi-steve)**  
   A diving-themed project designed to cater to scuba diving enthusiasts.
 
 - **[Cando CIfinal](https://github.com/wgwhitecoding/Cando-CIfinal)**  
   A project showcasing advanced CI/CD workflows.
 
-- **[Tech Game](https://github.com/wgwhitecoding/tech-game)**  
+- **[Tech Game](https://github.com/wgwhitecoding/tech_game)**  
   A gaming project demonstrating modern front-end and game development techniques.
 
 ---
