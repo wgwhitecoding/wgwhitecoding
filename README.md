@@ -6,9 +6,11 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 ---
 
 ## 🚀 About Me
-- 💻 Software Developer with expertise in Python, JavaScript, and web development.
+- 💻 Full Stack Junior Developer with expertise in Python, JavaScript, and web development.
+- 🛠️ Junior Data Engineer, skilled in handling data pipelines and ETL processes.
+- 🛡️ Trainee in Cyber Security, with a passion for learning about securing systems and networks.
 - 🎯 Committed to delivering clean, maintainable, and scalable code.
-- 🌍 Continuously learning and staying abreast of the latest tech trends.
+- 🌍 Continuously learning and staying abreast of the latest tech trends in development, data, and security.
 
 ---
 
