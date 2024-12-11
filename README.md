@@ -56,7 +56,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   A diving-themed project designed to cater to scuba diving enthusiasts.
 
 - **[Cando CIfinal](https://github.com/wgwhitecoding/Cando-CIfinal)**  
-  A project showcasing advanced CI/CD workflows.
+  An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.
 
 - **[Tech Game](https://github.com/wgwhitecoding/tech_game)**  
   A gaming project demonstrating modern front-end and game development techniques.
