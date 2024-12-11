@@ -41,7 +41,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   A fun, interactive trivia game based on the popular TV show.
 
 - **[Portfolio](https://github.com/wgwhitecoding/portfolio)**  
-  A personal portfolio showcasing my work, skills, and projects.
+  A personal portfolio showcasing my work, skills, and projects.(current / ongoing)
 
 - **[Love Running](https://github.com/wgwhitecoding/Love-Running)**  
   A web application designed for running enthusiasts to track their progress and goals.
