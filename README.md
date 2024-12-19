@@ -38,31 +38,33 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 ## 🌟 Projects
 
 ### Featured Projects
-- **[Who Wants to Be a Millionaire](https://github.com/wgwhitecoding/who-wants-to-be-a-millionaire)**  
-  A fun, interactive trivia game based on the popular TV show.
-
-- **[Portfolio](https://github.com/wgwhitecoding/portfolio)**  
-  A personal portfolio showcasing my work, skills, and projects.(current / ongoing)
-
-- **[Love Running](https://github.com/wgwhitecoding/Love-Running)**  
-  A web application designed for running enthusiasts to track their progress and goals.
-
-- **[UCD Resume](https://github.com/wgwhitecoding/UCD-Resume)**  
-  A resume-focused project highlighting my career and achievements.
-
-- **[Crew Weather](https://github.com/ChrissyLV/crew-weather))**  
-  A weather application that provides real-time weather updates for crew members.
-
-- **[Scubi Steve](https://github.com/wgwhitecoding/scubisteve)**  
-  A diving-themed project designed to cater to scuba diving enthusiasts.
 
 - **[Cando CIfinal](https://github.com/wgwhitecoding/Cando-CIfinal)**  
   An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.
 
+- **[Portfolio](https://github.com/wgwhitecoding/portfolio)**  
+  A personal portfolio showcasing my work, skills, and projects. (current / ongoing)
+
+- **[Scubi Steve](https://github.com/wgwhitecoding/scubisteve)**  
+  A diving-themed project designed to cater to scuba diving enthusiasts.
+
+- **[Futuristic Glow Snake Game](https://github.com/wgwhitecoding/snake)**  
+  A modern, neon-inspired version of the classic Snake game.
+
 - **[Tech Game](https://github.com/wgwhitecoding/tech_game)**  
   A gaming project demonstrating modern front-end and game development techniques.
+  
+- **[Love Running](https://github.com/wgwhitecoding/Love-Running)**  
+  A web application designed for running enthusiasts to track their progress and goals.
 
----
+- **[Crew Weather](https://github.com/ChrissyLV/crew-weather)**  
+  A weather application that provides real-time weather updates for crew members.
+
+- **[Who Wants to Be a Millionaire](https://github.com/wgwhitecoding/who-wants-to-be-a-millionaire)**  
+  A fun, interactive trivia game based on the popular TV show.
+  
+
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgwhitecoding&show_icons=true&theme=radical)
