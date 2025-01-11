@@ -248,7 +248,7 @@ A forever On-going beginner-friendly guide and repository for learning Python, d
 
 ---
 <div align="center">
-⭐️ Thanks for visiting! Feel free to explore my repositories and star any that interest you. 😊
+⭐️ Thanks for visiting! Feel free to explore my repositories, star any that interest you, and follow me for updates on my latest projects. 😊
 </div>
 
 
