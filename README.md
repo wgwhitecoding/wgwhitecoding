@@ -39,12 +39,25 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ---
 
+## 🏅 Certifications  
+- **Full-Stack Development Bootcamp** – [Code Institute](https://www.credential.net/836b8c9a-476f-41ca-a3be-abe512bdfd22#acc.wAy4P98S)  
+  *Completed: Comprehensive training in full-stack web development, focusing on HTML, CSS, JavaScript, Python, and Django.*  
+- **Level 5 Data Engineering Bootcamp** – [Iungo Solutions](https://iungosolutions.com) *(Ongoing)*  
+  *Advanced training in data engineering, including building ETL pipelines, data processing, and SQL.*  
+- **Cybersecurity Bootcamp** – [HyperionDev](https://www.hyperiondev.com) *(Ongoing)*  
+  *Foundational and practical training in cybersecurity, including network security, ethical hacking, and system hardening.*
+
+
+--
+
 ## 🌟 Projects
 
 ### Featured Projects
 
-### 🌐 Cool Sites
-A web development project focused on creating professional websites tailored for small businesses.  
+### 🌐 Cool Sites Project
+A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
+**Key Technologies:** HTML, CSS, JavaScript, CMS, Email.js
+
 <div>
   <a href="https://github.com/wgwhitecoding/CoolSites" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -58,6 +71,8 @@ A web development project focused on creating professional websites tailored for
 
 ### 🛠️ Cando CIfinal
 An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.  
+**Key Technologies:** Django, Python, JavaScript, CSS
+
 <div>
   <a href="https://github.com/wgwhitecoding/Cando-CIfinal" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -69,21 +84,25 @@ An independently developed Django project featuring a Kanban board to showcase f
 
 ---
 
-### 💼 Portfolio
+### 💼 Portfolio Project
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
+**Key Technologies:** HTML, CSS, JavaScript, Json, CENTIUMJS API
+
 <div>
   <a href="https://github.com/wgwhitecoding/portfolio" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/" target="_blank" tabindex="-1">
+  <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
 
 ---
 
-### 🐠 Scubi Steve
+### 🐠 Scubi Steve Project
 A diving-themed project designed to cater to scuba diving enthusiasts.  
+**Key Technologies:** HTML, CSS, JavaScript  
+
 <div>
   <a href="https://github.com/wgwhitecoding/scubisteve" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -97,6 +116,8 @@ A diving-themed project designed to cater to scuba diving enthusiasts.
 
 ### 🎮 Futuristic Glow Snake Game
 A modern, neon-inspired version of the classic Snake game.  
+**Key Technologies:** HTML, CSS, JavaScript  
+
 <div>
   <a href="https://github.com/wgwhitecoding/snake" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -108,8 +129,10 @@ A modern, neon-inspired version of the classic Snake game.
 
 ---
 
-### 🎯 Tech Game
+### 🎯 Tech Game Project
 A gaming project demonstrating modern front-end and game development techniques.  
+**Key Technologies:** HTML, CSS, JavaScript  
+
 <div>
   <a href="https://github.com/wgwhitecoding/tech_game" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -121,8 +144,10 @@ A gaming project demonstrating modern front-end and game development techniques.
 
 ---
 
-### 🏃 Love Running
+### 🏃 Love Running Project
 A web application designed for running enthusiasts to track their progress and goals.  
+**Key Technologies:** HTML, CSS, JavaScript  
+
 <div>
   <a href="https://github.com/wgwhitecoding/Love-Running" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -134,8 +159,10 @@ A web application designed for running enthusiasts to track their progress and g
 
 ---
 
-### ☀️ Crew Weather
+### ☀️ Crew Weather Project
 A weather application that provides real-time weather updates for crew members.  
+**Key Technologies:** HTML, CSS, JavaScript, Weather API.
+
 <div>
   <a href="https://github.com/ChrissyLV/crew-weather" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -147,8 +174,10 @@ A weather application that provides real-time weather updates for crew members.
 
 ---
 
-### 💡 Who Wants to Be a Millionaire
+### 💡 Who Wants to Be a Millionaire Project
 A fun, interactive trivia game based on the popular TV show.  
+**Key Technologies:** HTML, CSS, JavaScript, JSON, Trivia API.
+
 <div>
   <a href="https://github.com/wgwhitecoding/who-wants-to-be-a-millionaire" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
@@ -157,15 +186,6 @@ A fun, interactive trivia game based on the popular TV show.
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
-
-
-
----
-
-## 🏅 Certifications  
-- **Full-Stack Development Bootcamp** – [Code Institute]([https://codeinstitute.net](https://www.credential.net/836b8c9a-476f-41ca-a3be-abe512bdfd22#acc.wAy4P98S))  
-- **Data Engineering Bootcamp** – [on-going]  
-- **Cybersecurity Bootcamp (Ongoing)** – [on-going]  
 
 ---
 
@@ -182,6 +202,8 @@ A fun, interactive trivia game based on the popular TV show.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walidwillwhite/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidwillwhite@gmail.com)
 
+
+🚀 **Let’s connect and build something amazing together!** 🚀
 
 ---
 
