@@ -85,7 +85,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ### 🌐 Cool Sites Project
 A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
-**Key Technologies:** HTML, CSS, JavaScript, CMS, Email.js
+**Key Technologies:** HTML, CSS, JavaScript, Bootstrap, CMS, Email.js
 
 <div align="center">
   <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank" tabindex="-1">
@@ -100,7 +100,7 @@ A professional web development project focused on creating custom websites for s
 
 ### 🛠️ Cando CIfinal
 An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.  
-**Key Technologies:** Django, Python, JavaScript, CSS
+**Key Technologies:** Django, Python, JavaScript, Bootstrap, CSS
 
 <div align="center">
   <a href="https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/" target="_blank" tabindex="-1">
@@ -115,7 +115,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 
 ### 💼 Portfolio Project
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
-**Key Technologies:** HTML, CSS, JavaScript, Json, CENTIUMJS API
+**Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Json, CENTIUMJS API
 
 <div align="center">
    <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank" tabindex="-1">
@@ -175,7 +175,7 @@ A gaming project demonstrating modern front-end and game development techniques.
 
 ### 🏃 Love Running Project
 A web application designed for running enthusiasts to track their progress and goals.  
-**Key Technologies:** HTML, CSS, JavaScript  
+**Key Technologies:** HTML, CSS, JavaScript, Bootstrap.
 
 <div align="center">
   <a href="https://wgwhitecoding.github.io/Love-Running/" target="_blank" tabindex="-1">
@@ -190,7 +190,7 @@ A web application designed for running enthusiasts to track their progress and g
 
 ### ☀️ Crew Weather Project
 A weather application that provides real-time weather updates for crew members.  
-**Key Technologies:** HTML, CSS, JavaScript, Weather API.
+**Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Weather API.
 
 <div align="center">
   <a href="https://chrissylv.github.io/crew-weather/" target="_blank" tabindex="-1">
@@ -205,7 +205,7 @@ A weather application that provides real-time weather updates for crew members.
 
 ### 💡 Who Wants to Be a Millionaire Project
 A fun, interactive trivia game based on the popular TV show.  
-**Key Technologies:** HTML, CSS, JavaScript, JSON, Trivia API.
+**Key Technologies:** HTML, CSS, JavaScript, Bootstrap, JSON, Trivia API.
 
 <div align="center">
   
