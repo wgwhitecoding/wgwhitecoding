@@ -191,9 +191,10 @@ A fun, interactive trivia game based on the popular TV show.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgwhitecoding&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgwhitecoding&layout=compact&theme=radical)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgwhitecoding&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgwhitecoding&layout=compact&theme=radical) |
+|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+
 
 ---
 
