@@ -77,11 +77,11 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ### Featured Projects
 
-<br><br>
-
 ### 🌐 Cool Sites Project
 A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
 **Key Technologies:** HTML, CSS, JavaScript, CMS, Email.js
+
+<br><br>
 
 <div align="center">
   <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank" tabindex="-1">
