@@ -69,6 +69,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 ### Portfolio
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)* 
 
+
 <a href="https://github.com/wgwhitecoding/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Repository-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
 </a>
