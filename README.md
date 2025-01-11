@@ -52,9 +52,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
-  </svg>
+  <hr style="width: 50%; border: 1px solid #2D3748;">
 </div>
 
 <div align="center">
@@ -64,9 +62,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
-  </svg>
+  <hr style="width: 50%; border: 1px solid #2D3748;">
 </div>
 
 <div align="center">
@@ -77,9 +73,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
-  </svg>
+  <hr style="width: 50%; border: 1px solid #2D3748;">
 </div>
 
 <div align="center">
@@ -90,9 +84,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
-  </svg>
+  <hr style="width: 50%; border: 1px solid #2D3748;">
 </div>
 
 <div align="center">
@@ -101,6 +93,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://support.apple.com/macos"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"></a>
   <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
+
 
 
 ---
