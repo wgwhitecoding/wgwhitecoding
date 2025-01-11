@@ -32,9 +32,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 </div>
 
-
-
-### 
 <div align="center">
   <h2>🐍 Programming Languages</h2>
   
@@ -47,16 +44,18 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ---
 
-### 📚 **Frameworks and Libraries**
 <div align="center">
+<h2>📚 Frameworks and Libraries</h2>
+  
   <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
   <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 </div>
 
 ---
 
-### ⚙️ **Tools and Platforms**
 <div align="center">
+<h2>⚙️ Tools and Platforms</h2>
+  
   <a href="https://spark.apache.org/docs/latest/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
   <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
@@ -64,8 +63,9 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ---
 
-### 🛠️ **Additional Tools**
 <div align="center">
+<h2>🛠️ Additional Tools</h2>
+  
   <a href="https://www.gitpod.io/docs"><img src="https://img.shields.io/badge/Gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white" alt="Gitpod"></a>
   <a href="https://docs.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
   <a href="https://www.emailjs.com/docs/"><img src="https://img.shields.io/badge/Email.js-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Email.js"></a>
@@ -73,15 +73,13 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ---
 
-### 💻 **Development Environment**
 <div align="center">
+<h2>💻 Development Environment</h2>
+  
   <a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
   <a href="https://support.apple.com/macos"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"></a>
   <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
-
-
-
 
 ---
 
