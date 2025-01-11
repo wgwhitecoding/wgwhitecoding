@@ -52,7 +52,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <hr style="width: 50%; border: 1px solid #2D3748;">
+  <hr style="width: 20%; border: 1px solid #2D3748;">
 </div>
 
 <div align="center">
