@@ -22,16 +22,21 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 - 🌊 And a Passionate scuba diver, exploring the underwater world and embracing new challenges.
 
 ---
-
 ## 🏅 Certifications  
-- **Full-Stack Development Bootcamp** – [Code Institute](https://www.credential.net/836b8c9a-476f-41ca-a3be-abe512bdfd22#acc.wAy4P98S)  
-  *Completed: Comprehensive training in full-stack web development, focusing on HTML, CSS, JavaScript, Python, and Django.*
-   
-- **Level 5 Data Engineering Bootcamp** – [Iungo Solutions](https://iungosolutions.com) *(Ongoing)*  
-  *Advanced training in data engineering, including building ETL pipelines, data processing, and SQL.*
-  
-- **Cybersecurity Bootcamp** – [HyperionDev](https://www.hyperiondev.com) *(Ongoing)*  
+
+- ![Code Institute](https://img.shields.io/badge/Code%20Institute-FE5196?style=for-the-badge&logo=codeforces&logoColor=white)  
+  **Full-Stack Development Bootcamp** – [Code Institute](https://www.credential.net/836b8c9a-476f-41ca-a3be-abe512bdfd22#acc.wAy4P98S)  
+  *Completed: Comprehensive training in full-stack web development, focusing on HTML, CSS, JavaScript, Python, and Django.*  
+
+- ![Iungo Solutions](https://img.shields.io/badge/Iungo%20Solutions-4CAF50?style=for-the-badge&logo=databricks&logoColor=white)  
+  **Level 5 Data Engineering Bootcamp** – [Iungo Solutions](https://iungosolutions.com) *(Ongoing)*  
+  *Advanced training in data engineering, including building ETL pipelines, data processing, and SQL.*  
+
+- ![HyperionDev](https://img.shields.io/badge/HyperionDev-0072C6?style=for-the-badge&logo=hackthebox&logoColor=white)  
+  **Cybersecurity Bootcamp** – [HyperionDev](https://www.hyperiondev.com) *(Ongoing)*  
   *Foundational and practical training in cybersecurity, including network security, ethical hacking, and system hardening.*
+
+
 
 ---
 
