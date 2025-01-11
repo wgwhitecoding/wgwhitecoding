@@ -206,32 +206,29 @@ A fun, interactive trivia game based on the popular TV show.
 
 ## 🤝 Connect with Me
 
-<div style="border: 2px solid #00C7B7; border-radius: 10px; padding: 20px; background-color: #f9f9f9; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); text-align: center;">
-
-<a href="https://github.com/wgwhitecoding" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/walidwillwhite/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:walidwillwhite@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://wgwhitecoding.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
-  <img src="https://img.shields.io/badge/Want%20a%20Website%3F-00A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Want a Website?">
-</a>
-
-✨ Feel free to reach out for collaborations, projects, or just a chat! ✨
-
+<div align="center">
+  <a href="https://github.com/wgwhitecoding" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/walidwillwhite/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:walidwillwhite@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
+    <img src="https://img.shields.io/badge/Want%20a%20Website%3F-00A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Want a Website?">
+  </a>
 </div>
 
+<div align="center">
+✨ Feel free to reach out for collaborations, projects, or just a chat! ✨  
+🚀 Let’s connect and build something amazing together! 🚀
+</div>
 
-
-
-🚀 **Let’s connect and build something amazing together!** 🚀
 
 ---
 
