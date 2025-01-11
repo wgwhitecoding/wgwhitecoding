@@ -46,9 +46,8 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 - **[Cool Sites](https://github.com/wgwhitecoding/CoolSites)**  
  Cool Sites is a web development project focused on creating professional, high-quality websites tailored to the needs of small businesses and individuals.
-                <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
-  <img src="https://img.shields.io/badge/Try%20it%20Live%21-blue?style=for-the-badge" alt="Try it Live">
-                </a>
+                   <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
+                   <img src="https://img.shields.io/badge/Try%20it%20Live%21-blue?style=for-the-badge" alt="Try it Live"></a>
 
 
   
