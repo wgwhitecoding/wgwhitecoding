@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+---
+
 ## 👋 Hi, I'm Will!  
 I'm a passionate full-stack developer with a focus on creating elegant, user-centric websites and applications. With experience in web development, data engineering, and cybersecurity, I love bringing ideas to life through code and solving complex problems. 🚀
 
