@@ -21,6 +21,9 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ## 🛠️ Skills
 
+> ℹ️ **Note:** Clicking on the badges will take you to the official documentation or relevant resources for each tool or technology.
+
+
 ### 🐍 **Programming Languages**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
