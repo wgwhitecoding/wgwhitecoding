@@ -40,97 +40,57 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 > **Note:** Clicking on the badges will take you to the official documentation or relevant resources for each tool or technology.
 
 </div>
+
 <div align="center">
   <!-- Programming Languages and Tools and Platforms -->
-  <table style="width: 90%; margin: auto; border-spacing: 15px; border-collapse: separate;">
-    <tr>
-      <!-- Programming Languages -->
-      <td style="vertical-align: top; padding: 10px;">
-        <table style="border: 2px solid #333; width: 100%; margin: auto;">
-          <tr>
-            <th align="center" style="font-size: 1.5em;">🐍 Programming Languages</th>
-          </tr>
-          <tr>
-            <td align="center">
-              <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-              <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-              <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-              <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <!-- Tools and Platforms -->
-      <td style="vertical-align: top; padding: 10px;">
-        <table style="border: 2px solid #333; width: 100%; margin: auto;">
-          <tr>
-            <th align="center" style="font-size: 1.5em;">⚙️ Tools and Platforms</th>
-          </tr>
-          <tr>
-            <td align="center">
-              <a href="https://spark.apache.org/docs/latest/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
-              <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-              <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <!-- Programming Languages -->
+    <div style="border: 2px solid #333; padding: 15px; width: 45%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>🐍 Programming Languages</h3>
+      <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+      <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+    </div>
+    <!-- Tools and Platforms -->
+    <div style="border: 2px solid #333; padding: 15px; width: 45%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>⚙️ Tools and Platforms</h3>
+      <a href="https://spark.apache.org/docs/latest/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
+      <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+      <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+    </div>
+  </div>
 </div>
+
+<br>
 
 <div align="center">
   <!-- Other Three Sections -->
-  <table style="width: 90%; margin: auto; border-spacing: 15px; border-collapse: separate;">
-    <tr>
-      <!-- Frameworks and Libraries -->
-      <td style="vertical-align: top; padding: 10px;">
-        <table style="border: 2px solid #333; width: 100%; margin: auto;">
-          <tr>
-            <th align="center" style="font-size: 1.5em;">📚 Frameworks and Libraries</th>
-          </tr>
-          <tr>
-            <td align="center">
-              <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-              <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <!-- Additional Tools -->
-      <td style="vertical-align: top; padding: 10px;">
-        <table style="border: 2px solid #333; width: 100%; margin: auto;">
-          <tr>
-            <th align="center" style="font-size: 1.5em;">🛠️ Additional Tools</th>
-          </tr>
-          <tr>
-            <td align="center">
-              <a href="https://www.gitpod.io/docs"><img src="https://img.shields.io/badge/Gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white" alt="Gitpod"></a>
-              <a href="https://docs.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
-              <a href="https://www.emailjs.com/docs/"><img src="https://img.shields.io/badge/Email.js-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Email.js"></a>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <!-- Development Environment -->
-      <td style="vertical-align: top; padding: 10px;">
-        <table style="border: 2px solid #333; width: 100%; margin: auto;">
-          <tr>
-            <th align="center" style="font-size: 1.5em;">💻 Development Environment</th>
-          </tr>
-          <tr>
-            <td align="center">
-              <a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
-              <a href="https://support.apple.com/macos"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"></a>
-              <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <!-- Frameworks and Libraries -->
+    <div style="border: 2px solid #333; padding: 15px; width: 30%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>📚 Frameworks and Libraries</h3>
+      <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+      <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+    </div>
+    <!-- Additional Tools -->
+    <div style="border: 2px solid #333; padding: 15px; width: 30%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>🛠️ Additional Tools</h3>
+      <a href="https://www.gitpod.io/docs"><img src="https://img.shields.io/badge/Gitpod-1AA6E4?style=for-the-badge&logo=gitpod&logoColor=white" alt="Gitpod"></a>
+      <a href="https://docs.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
+      <a href="https://www.emailjs.com/docs/"><img src="https://img.shields.io/badge/Email.js-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Email.js"></a>
+    </div>
+    <!-- Development Environment -->
+    <div style="border: 2px solid #333; padding: 15px; width: 30%; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>💻 Development Environment</h3>
+      <a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
+      <a href="https://support.apple.com/macos"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"></a>
+      <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+    </div>
+  </div>
 </div>
+
 
 
 
