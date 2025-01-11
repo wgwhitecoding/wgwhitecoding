@@ -65,11 +65,9 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   A modern, neon-inspired version of the classic Snake game.
   [Try it Live!](https://wgwhitecoding.github.io/snake/)
 
-
 - **[Tech Game](https://github.com/wgwhitecoding/tech_game)**  
   A gaming project demonstrating modern front-end and game development techniques.
   [Try it Live!](https://wgwhitecoding.github.io/tech_game/)
-  
   
 - **[Love Running](https://github.com/wgwhitecoding/Love-Running)**  
   A web application designed for running enthusiasts to track their progress and goals.
@@ -77,7 +75,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 - **[Crew Weather](https://github.com/ChrissyLV/crew-weather)**  
   A weather application that provides real-time weather updates for crew members.
-  [Try it Live!](https://github.com/ChrissyLV/crew-weather)
+  [Try it Live!](https://chrissylv.github.io/crew-weather/)
 
 - **[Who Wants to Be a Millionaire](https://github.com/wgwhitecoding/who-wants-to-be-a-millionaire)**  
   A fun, interactive trivia game based on the popular TV show.
