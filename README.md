@@ -226,7 +226,6 @@ A fun, interactive trivia game based on the popular TV show.
   </a>
 </div>
 
-<br><br>
 
 <div align="center">
 ✨ Feel free to reach out for collaborations, projects, or just a chat! ✨  
