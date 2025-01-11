@@ -43,14 +43,13 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ### Featured Projects
 
-
 ### 🌐 Cool Sites
 A web development project focused on creating professional websites tailored for small businesses.  
 <div>
-  <a href="https://github.com/wgwhitecoding/CoolSites" target="_blank">
+  <a href="https://github.com/wgwhitecoding/CoolSites" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
+  <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -60,10 +59,10 @@ A web development project focused on creating professional websites tailored for
 ### 🛠️ Cando CIfinal
 An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.  
 <div>
-  <a href="https://github.com/wgwhitecoding/Cando-CIfinal" target="_blank">
+  <a href="https://github.com/wgwhitecoding/Cando-CIfinal" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/" target="_blank">
+  <a href="https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -73,10 +72,10 @@ An independently developed Django project featuring a Kanban board to showcase f
 ### 💼 Portfolio
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
 <div>
-  <a href="https://github.com/wgwhitecoding/portfolio" target="_blank">
+  <a href="https://github.com/wgwhitecoding/portfolio" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/" target="_blank">
+  <a href="https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -86,10 +85,10 @@ A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoi
 ### 🐠 Scubi Steve
 A diving-themed project designed to cater to scuba diving enthusiasts.  
 <div>
-  <a href="https://github.com/wgwhitecoding/scubisteve" target="_blank">
+  <a href="https://github.com/wgwhitecoding/scubisteve" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://wgwhitecoding.github.io/scubisteve/" target="_blank">
+  <a href="https://wgwhitecoding.github.io/scubisteve/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -99,10 +98,10 @@ A diving-themed project designed to cater to scuba diving enthusiasts.
 ### 🎮 Futuristic Glow Snake Game
 A modern, neon-inspired version of the classic Snake game.  
 <div>
-  <a href="https://github.com/wgwhitecoding/snake" target="_blank">
+  <a href="https://github.com/wgwhitecoding/snake" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://wgwhitecoding.github.io/snake/" target="_blank">
+  <a href="https://wgwhitecoding.github.io/snake/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -112,10 +111,10 @@ A modern, neon-inspired version of the classic Snake game.
 ### 🎯 Tech Game
 A gaming project demonstrating modern front-end and game development techniques.  
 <div>
-  <a href="https://github.com/wgwhitecoding/tech_game" target="_blank">
+  <a href="https://github.com/wgwhitecoding/tech_game" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://wgwhitecoding.github.io/tech_game/" target="_blank">
+  <a href="https://wgwhitecoding.github.io/tech_game/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -125,10 +124,10 @@ A gaming project demonstrating modern front-end and game development techniques.
 ### 🏃 Love Running
 A web application designed for running enthusiasts to track their progress and goals.  
 <div>
-  <a href="https://github.com/wgwhitecoding/Love-Running" target="_blank">
+  <a href="https://github.com/wgwhitecoding/Love-Running" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://wgwhitecoding.github.io/Love-Running/" target="_blank">
+  <a href="https://wgwhitecoding.github.io/Love-Running/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -138,10 +137,10 @@ A web application designed for running enthusiasts to track their progress and g
 ### ☀️ Crew Weather
 A weather application that provides real-time weather updates for crew members.  
 <div>
-  <a href="https://github.com/ChrissyLV/crew-weather" target="_blank">
+  <a href="https://github.com/ChrissyLV/crew-weather" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://chrissylv.github.io/crew-weather/" target="_blank">
+  <a href="https://chrissylv.github.io/crew-weather/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
@@ -151,19 +150,13 @@ A weather application that provides real-time weather updates for crew members.
 ### 💡 Who Wants to Be a Millionaire
 A fun, interactive trivia game based on the popular TV show.  
 <div>
-  <a href="https://github.com/wgwhitecoding/who-wants-to-be-a-millionaire" target="_blank">
+  <a href="https://github.com/wgwhitecoding/who-wants-to-be-a-millionaire" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
-  <a href="https://wgwhitecoding.github.io/Who-Wants-To-Be-A-Millionaire/" target="_blank">
+  <a href="https://wgwhitecoding.github.io/Who-Wants-To-Be-A-Millionaire/" target="_blank" focusable="false">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
 </div>
-
-
-
-
-
- 
 
 ---
 
