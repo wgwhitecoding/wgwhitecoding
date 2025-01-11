@@ -79,7 +79,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ---
 
-### 🌐 Cool Sites Project
+### [🌐 Cool Sites Project](#)
 A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, CMS, Email.js  
 
@@ -95,7 +95,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 [![Repository](https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding/Cando-CIfinal)
 
 ---
-### 🛠️ <span style="color:#FF5733;">Cando CIfinal</span>
+
 ### 💼 Portfolio Project
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Json, CENTIUMJS API  
