@@ -209,7 +209,6 @@ A fun, interactive trivia game based on the popular TV show.
 
 <div align="center">
  <p>✨ Feel free to reach out for collaborations, projects, or just a chat! ✨</p>
- <br><br>
  
   <a href="https://github.com/wgwhitecoding" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
