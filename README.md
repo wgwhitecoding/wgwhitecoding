@@ -265,7 +265,7 @@ A forever On-going beginner-friendly guide and repository for learning Python, d
 
 ---
 <div align="center">
-💡 Quote of the Day
+<h2>💡 Quote of the Day</h2>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
