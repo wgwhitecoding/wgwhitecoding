@@ -39,6 +39,10 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ### Featured Projects
 
+
+- **[Cool Sitesl](https://github.com/wgwhitecoding/QuickSets)**  
+ Cool Sites is a web development project focused on creating professional, high-quality websites tailored to the needs of small businesses and individuals..
+  
 - **[Cando CIfinal](https://github.com/wgwhitecoding/Cando-CIfinal)**  
   An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.
 
