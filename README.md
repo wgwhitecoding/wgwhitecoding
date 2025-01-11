@@ -21,7 +21,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ## 🛠️ Skills
 
-> ℹ️ **Note:** Clicking on the badges will take you to the official documentation or relevant resources for each tool or technology.
+>  **Note:** Clicking on the badges will take you to the official documentation or relevant resources for each tool or technology.
 
 
 ### 🐍 **Programming Languages**
