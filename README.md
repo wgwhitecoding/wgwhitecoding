@@ -205,6 +205,7 @@ A fun, interactive trivia game based on the popular TV show.
 ---
 
 ## 🤝 Connect with Me
+<br><br>
 
 <div align="center">
  <p>✨ Feel free to reach out for collaborations, projects, or just a chat! ✨</p>
@@ -225,7 +226,7 @@ A fun, interactive trivia game based on the popular TV show.
     <img src="https://img.shields.io/badge/Want%20a%20Website%3F-00A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Want a Website?">
   </a>
 </div>
-
+<br><br>
 <div align="center">
 🚀 Let’s connect and build something amazing together! 🚀
 </div>
