@@ -71,8 +71,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ---
 
-
-
 ## 🌟 Projects
 
 ### Featured Projects
@@ -182,7 +180,6 @@ A forever ongoing beginner-friendly guide and repository for learning Python, de
 
 ## 🤝 Connect with Me
 
-
 <div align="center">
  <p>✨ Feel free to reach out for collaborations, projects, or just a chat! ✨</p>
  
@@ -209,9 +206,6 @@ A forever ongoing beginner-friendly guide and repository for learning Python, de
 <div align="center">
 🚀 Let’s connect and build something amazing together! 🚀
 </div>
-
-
-
 
 ---
 <div align="center">
