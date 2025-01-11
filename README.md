@@ -110,7 +110,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 ### 💼 Portfolio Project
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
 **Key Technologies:** HTML, CSS, JavaScript, Json, CENTIUMJS API
-
+<br><br>
 <div align="center">
    <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
@@ -223,11 +223,7 @@ A forever On-going beginner-friendly guide and repository for learning Python, d
   </a>
 </div>
 
-
-
-
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -238,13 +234,6 @@ A forever On-going beginner-friendly guide and repository for learning Python, d
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgwhitecoding&layout=compact&theme=radical&hide_title=false&hide_border=false&card_width=450&langs_count=5)
 
 </div>
-
-
-
-
-
-
-
 
 ---
 
