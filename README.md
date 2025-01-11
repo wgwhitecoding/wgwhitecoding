@@ -42,13 +42,13 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 <div align="center">
   <!-- Programming Languages and Tools and Platforms -->
-  <table style="border-collapse: collapse; width: 90%; margin: auto; table-layout: fixed;">
+  <table style="width: 90%; margin: auto; border-spacing: 15px; border-collapse: separate;">
     <tr>
       <!-- Programming Languages -->
-      <td style="vertical-align: top; width: 50%; padding: 10px;">
+      <td style="vertical-align: top; padding: 10px;">
         <table style="border: 2px solid #333; width: 100%; margin: auto;">
           <tr>
-            <th colspan="2" align="center" style="font-size: 1.5em;">🐍 Programming Languages</th>
+            <th align="center" style="font-size: 1.5em;">🐍 Programming Languages</th>
           </tr>
           <tr>
             <td align="center">
@@ -62,10 +62,10 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
         </table>
       </td>
       <!-- Tools and Platforms -->
-      <td style="vertical-align: top; width: 50%; padding: 10px;">
+      <td style="vertical-align: top; padding: 10px;">
         <table style="border: 2px solid #333; width: 100%; margin: auto;">
           <tr>
-            <th colspan="2" align="center" style="font-size: 1.5em;">⚙️ Tools and Platforms</th>
+            <th align="center" style="font-size: 1.5em;">⚙️ Tools and Platforms</th>
           </tr>
           <tr>
             <td align="center">
@@ -82,13 +82,13 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 <div align="center">
   <!-- Other Three Sections -->
-  <table style="border-collapse: collapse; width: 90%; margin: auto; table-layout: fixed;">
+  <table style="width: 90%; margin: auto; border-spacing: 15px; border-collapse: separate;">
     <tr>
       <!-- Frameworks and Libraries -->
-      <td style="vertical-align: top; width: 33%; padding: 10px;">
+      <td style="vertical-align: top; padding: 10px;">
         <table style="border: 2px solid #333; width: 100%; margin: auto;">
           <tr>
-            <th colspan="2" align="center" style="font-size: 1.5em;">📚 Frameworks and Libraries</th>
+            <th align="center" style="font-size: 1.5em;">📚 Frameworks and Libraries</th>
           </tr>
           <tr>
             <td align="center">
@@ -99,10 +99,10 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
         </table>
       </td>
       <!-- Additional Tools -->
-      <td style="vertical-align: top; width: 33%; padding: 10px;">
+      <td style="vertical-align: top; padding: 10px;">
         <table style="border: 2px solid #333; width: 100%; margin: auto;">
           <tr>
-            <th colspan="2" align="center" style="font-size: 1.5em;">🛠️ Additional Tools</th>
+            <th align="center" style="font-size: 1.5em;">🛠️ Additional Tools</th>
           </tr>
           <tr>
             <td align="center">
@@ -114,10 +114,10 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
         </table>
       </td>
       <!-- Development Environment -->
-      <td style="vertical-align: top; width: 33%; padding: 10px;">
+      <td style="vertical-align: top; padding: 10px;">
         <table style="border: 2px solid #333; width: 100%; margin: auto;">
           <tr>
-            <th colspan="2" align="center" style="font-size: 1.5em;">💻 Development Environment</th>
+            <th align="center" style="font-size: 1.5em;">💻 Development Environment</th>
           </tr>
           <tr>
             <td align="center">
@@ -131,6 +131,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
     </tr>
   </table>
 </div>
+
 
 
 
