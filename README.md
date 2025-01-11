@@ -87,7 +87,7 @@ A professional web development project focused on creating custom websites for s
 [![Repository](https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding/CoolSites)
 
 ---
-
+### 🛠️ <span style="color:#FF5733;">Cando CIfinal</span>
 ### 🛠️ Cando CIfinal
 An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.  
 **Key Technologies:** Django, Python, JavaScript, Bootstrap, CSS  
@@ -96,7 +96,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 [![Repository](https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding/Cando-CIfinal)
 
 ---
-
+### 🛠️ <span style="color:#FF5733;">Cando CIfinal</span>
 ### 💼 Portfolio Project
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Json, CENTIUMJS API  
