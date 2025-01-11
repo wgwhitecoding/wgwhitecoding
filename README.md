@@ -48,6 +48,11 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
  Cool Sites is a web development project focused on creating professional, high-quality websites tailored to the needs of small businesses and individuals.
  [Try it Live!](https://wgwhitecoding.github.io/CoolSites/)
 
+<a href="https://your-live-demo-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Try%20it%20Live%21-blue?style=for-the-badge" alt="Try it Live">
+</a>
+
+
   
 - **[Cando CIfinal](https://github.com/wgwhitecoding/Cando-CIfinal)**  
   An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.
