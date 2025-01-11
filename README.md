@@ -58,7 +58,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   </table>
 </div>
 
----
 
 <div align="center">
   <table style="border: 2px solid #333; width: 90%; margin: auto;">
@@ -74,7 +73,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   </table>
 </div>
 
----
 
 <div align="center">
   <table style="border: 2px solid #333; width: 90%; margin: auto;">
@@ -91,7 +89,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   </table>
 </div>
 
----
 
 <div align="center">
   <table style="border: 2px solid #333; width: 90%; margin: auto;">
@@ -108,7 +105,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   </table>
 </div>
 
----
 
 <div align="center">
   <table style="border: 2px solid #333; width: 90%; margin: auto;">
@@ -124,11 +120,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
     </tr>
   </table>
 </div>
-
-
-
-
-
 
 ---
 
