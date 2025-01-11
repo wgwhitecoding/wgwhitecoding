@@ -48,7 +48,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   *Foundational and practical training in cybersecurity, including network security, ethical hacking, and system hardening.*
 
 
---
+---
 
 ## 🌟 Projects
 
