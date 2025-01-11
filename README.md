@@ -77,6 +77,8 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ### Featured Projects
 
+<br><br>
+
 ### 🌐 Cool Sites Project
 A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
 **Key Technologies:** HTML, CSS, JavaScript, CMS, Email.js
@@ -110,7 +112,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 ### 💼 Portfolio Project
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
 **Key Technologies:** HTML, CSS, JavaScript, Json, CENTIUMJS API
-<br><br>
+
 <div align="center">
    <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
