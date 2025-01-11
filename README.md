@@ -42,11 +42,12 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-<h2>📚 Frameworks and Libraries</h2>
-  
+<h3>📚 Frameworks and Libraries</h3>
   <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
   <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 </div>
+
+---
 
 <div align="center">
 <h2>⚙️ Tools and Platforms</h2>
@@ -56,6 +57,8 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 </div>
 
+---
+
 <div align="center">
 <h2>🛠️ Additional Tools</h2>
   
@@ -63,6 +66,8 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://docs.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
   <a href="https://www.emailjs.com/docs/"><img src="https://img.shields.io/badge/Email.js-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Email.js"></a>
 </div>
+
+---
 
 <div align="center">
 <h2>💻 Development Environment</h2>
