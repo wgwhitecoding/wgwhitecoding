@@ -196,6 +196,19 @@ A fun, interactive trivia game based on the popular TV show.
 
 ---
 
+### 🐍 LearnPython
+A forever On-going beginner-friendly guide and repository for learning Python, designed to teach and deepen understanding of Python concepts. Created as a resource for learners while enhancing my own Python understanding.  
+**Key Technologies:** Python
+
+<div>
+  <a href="https://github.com/wgwhitecoding/LearnPython" target="_blank" tabindex="-1">
+      <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  </a>
+</div>
+
+
+---
+
 ## 📊 GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgwhitecoding&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgwhitecoding&layout=compact&theme=radical) |
