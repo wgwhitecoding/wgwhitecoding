@@ -229,9 +229,14 @@ A forever On-going beginner-friendly guide and repository for learning Python, d
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wgwhitecoding&show_icons=true&theme=radical&hide_title=false&hide_border=false&card_width=450)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wgwhitecoding&layout=compact&theme=radical&hide_title=false&hide_border=false&card_width=450&langs_count=5)
+
+</div>
+
 
 
 
