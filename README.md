@@ -206,9 +206,20 @@ A fun, interactive trivia game based on the popular TV show.
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walidwillwhite/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidwillwhite@gmail.com)
+## 🤝 Contact Me
+
+<div align="center" style="border: 2px solid #00C7B7; border-radius: 10px; padding: 20px; background-color: #f9f9f9; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walidwillwhite/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walidwillwhite@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://wgwhitecoding.github.io/portfolio/)  
+[![Do You Want a Website?](https://img.shields.io/badge/Want%20a%20Website%3F-00A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/CoolSites/)
+
+✨ _Feel free to reach out for collaborations, projects, or just a chat!_ ✨
+
+</div>
+
 
 
 🚀 **Let’s connect and build something amazing together!** 🚀
