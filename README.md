@@ -87,7 +87,8 @@ A professional web development project focused on creating custom websites for s
 [![Repository](https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding/CoolSites)
 
 ---
-### 🛠️ Cando CIfinal
+
+### [🛠️ Cando CIfinal](#)
 An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.  
 **Key Technologies:** Django, Python, JavaScript, Bootstrap, CSS  
 
@@ -96,7 +97,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 
 ---
 
-### 💼 Portfolio Project
+### [💼 Portfolio Project](#)
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Json, CENTIUMJS API  
 
@@ -105,7 +106,7 @@ A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoi
 
 ---
 
-### 🐠 Scubi Steve Project
+### [🐠 Scubi Steve Project](#)
 A diving-themed project designed to cater to scuba diving enthusiasts.  
 **Key Technologies:** HTML, CSS, JavaScript  
 
@@ -114,7 +115,7 @@ A diving-themed project designed to cater to scuba diving enthusiasts.
 
 ---
 
-### 🎮 Futuristic Glow Snake Game
+### [🎮 Futuristic Glow Snake Game](#)
 A modern, neon-inspired version of the classic Snake game.  
 **Key Technologies:** HTML, CSS, JavaScript  
 
@@ -123,7 +124,7 @@ A modern, neon-inspired version of the classic Snake game.
 
 ---
 
-### 🎯 Tech Game Project
+### [🎯 Tech Game Project](#)
 A gaming project demonstrating modern front-end and game development techniques.  
 **Key Technologies:** HTML, CSS, JavaScript  
 
@@ -132,7 +133,7 @@ A gaming project demonstrating modern front-end and game development techniques.
 
 ---
 
-### 🏃 Love Running Project
+### [🏃 Love Running Project](#)
 A web application designed for running enthusiasts to track their progress and goals.  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap  
 
@@ -141,7 +142,7 @@ A web application designed for running enthusiasts to track their progress and g
 
 ---
 
-### ☀️ Crew Weather Project
+### [☀️ Crew Weather Project](#)
 A weather application that provides real-time weather updates for crew members.  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Weather API  
 
@@ -150,7 +151,7 @@ A weather application that provides real-time weather updates for crew members.
 
 ---
 
-### 💡 Who Wants to Be a Millionaire Project
+### [💡 Who Wants to Be a Millionaire Project](#)
 A fun, interactive trivia game based on the popular TV show.  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, JSON, Trivia API  
 
@@ -159,7 +160,7 @@ A fun, interactive trivia game based on the popular TV show.
 
 ---
 
-### 🐍 LearnPython
+### [🐍 LearnPython](#)
 A forever ongoing beginner-friendly guide and repository for learning Python, designed to teach and deepen understanding of Python concepts. Created as a resource for learners while enhancing my own Python understanding.  
 **Key Technologies:** Python  
 
