@@ -41,7 +41,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 > **Note:** Clicking on the badges will take you to the official documentation or relevant resources for each tool or technology.
 
 </div>
-
 <div align="center">
   <h3>🐍 Programming Languages</h3>
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
@@ -52,7 +51,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <hr style="width: 20%; border: 1px solid #2D3748;">
+  <hr style="width: 50%; border: 0.5px solid #ccc;">
 </div>
 
 <div align="center">
@@ -62,7 +61,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <hr style="width: 50%; border: 1px solid #2D3748;">
+  <hr style="width: 50%; border: 0.5px solid #ccc;">
 </div>
 
 <div align="center">
@@ -73,7 +72,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <hr style="width: 50%; border: 1px solid #2D3748;">
+  <hr style="width: 50%; border: 0.5px solid #ccc;">
 </div>
 
 <div align="center">
@@ -84,7 +83,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 </div>
 
 <div align="center">
-  <hr style="width: 50%; border: 1px solid #2D3748;">
+  <hr style="width: 50%; border: 0.5px solid #ccc;">
 </div>
 
 <div align="center">
@@ -93,6 +92,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://support.apple.com/macos"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"></a>
   <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
+
 
 
 
