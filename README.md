@@ -264,11 +264,15 @@ A forever On-going beginner-friendly guide and repository for learning Python, d
   <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
     <img src="https://img.shields.io/badge/Want%20a%20Website%3F-00A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Want a Website?">
   </a>
+  <a href="https://www.linkedin.com/company/techa-nalogy/?viewAsMember=true" target="_blank">
+    <img src="https://img.shields.io/badge/Tech--Analogy-FFD700?style=for-the-badge&logo=bulb&logoColor=white" alt="Tech-Analogy">
+  </a>
 </div>
 <br><br>
 <div align="center">
 🚀 Let’s connect and build something amazing together! 🚀
 </div>
+
 
 
 
