@@ -51,7 +51,11 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
 </div>
 
----
+<div align="center">
+  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
+  </svg>
+</div>
 
 <div align="center">
 <h3>📚 Frameworks and Libraries</h3>
@@ -59,7 +63,11 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 </div>
 
----
+<div align="center">
+  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
+  </svg>
+</div>
 
 <div align="center">
 <h3>⚙️ Tools and Platforms</h3>
@@ -68,7 +76,11 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 </div>
 
----
+<div align="center">
+  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
+  </svg>
+</div>
 
 <div align="center">
 <h3>🛠️ Additional Tools</h3>
@@ -77,7 +89,11 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://www.emailjs.com/docs/"><img src="https://img.shields.io/badge/Email.js-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Email.js"></a>
 </div>
 
----
+<div align="center">
+  <svg height="2" width="30%" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="0" x2="100%" y2="0" style="stroke:#2D3748;stroke-width:2" />
+  </svg>
+</div>
 
 <div align="center">
 <h3>💻 Development Environment</h3>
@@ -85,6 +101,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://support.apple.com/macos"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"></a>
   <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
+
 
 ---
 
