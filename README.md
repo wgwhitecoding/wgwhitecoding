@@ -42,19 +42,22 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 ### Featured Projects
 
 
-- **[Cool Sites](https://github.com/wgwhitecoding/QuickSets)**  
+- **[Cool Sites](https://github.com/wgwhitecoding/CoolSites)**  
  Cool Sites is a web development project focused on creating professional, high-quality websites tailored to the needs of small businesses and individuals.
- [Try it Live!](https://wgwhitecoding.github.io/snake/)
+ [Try it Live!](https://wgwhitecoding.github.io/CoolSites/)
 
   
 - **[Cando CIfinal](https://github.com/wgwhitecoding/Cando-CIfinal)**  
   An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.
+  [Try it Live!](https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/)
 
 - **[Portfolio](https://github.com/wgwhitecoding/portfolio)**  
   A personal portfolio showcasing my work, skills, and projects. (current / ongoing)
+  [Try it Live!](https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/)
 
 - **[Scubi Steve](https://github.com/wgwhitecoding/scubisteve)**  
   A diving-themed project designed to cater to scuba diving enthusiasts.
+  [Try it Live!](https://wgwhitecoding.github.io/scubisteve/)
 
 - **[Futuristic Glow Snake Game](https://github.com/wgwhitecoding/snake)**  
   A modern, neon-inspired version of the classic Snake game.
@@ -63,15 +66,21 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 - **[Tech Game](https://github.com/wgwhitecoding/tech_game)**  
   A gaming project demonstrating modern front-end and game development techniques.
+  [Try it Live!](https://wgwhitecoding.github.io/tech_game/)
+  
   
 - **[Love Running](https://github.com/wgwhitecoding/Love-Running)**  
   A web application designed for running enthusiasts to track their progress and goals.
+  [Try it Live!](https://wgwhitecoding.github.io/Love-Running/)
 
 - **[Crew Weather](https://github.com/ChrissyLV/crew-weather)**  
   A weather application that provides real-time weather updates for crew members.
+  [Try it Live!](https://github.com/ChrissyLV/crew-weather)
 
 - **[Who Wants to Be a Millionaire](https://github.com/wgwhitecoding/who-wants-to-be-a-millionaire)**  
   A fun, interactive trivia game based on the popular TV show.
+  [Try it Live!](https://wgwhitecoding.github.io/Who-Wants-To-Be-A-Millionaire/)
+ 
 
 
 
