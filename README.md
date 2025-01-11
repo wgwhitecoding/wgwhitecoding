@@ -81,7 +81,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
 **Key Technologies:** HTML, CSS, JavaScript, CMS, Email.js
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -96,7 +96,7 @@ A professional web development project focused on creating custom websites for s
 An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.  
 **Key Technologies:** Django, Python, JavaScript, CSS
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -111,7 +111,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
 **Key Technologies:** HTML, CSS, JavaScript, Json, CENTIUMJS API
 
-<div style="text-align: center;">
+<div align="center">
    <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -126,7 +126,7 @@ A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoi
 A diving-themed project designed to cater to scuba diving enthusiasts.  
 **Key Technologies:** HTML, CSS, JavaScript  
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://wgwhitecoding.github.io/scubisteve/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -141,7 +141,7 @@ A diving-themed project designed to cater to scuba diving enthusiasts.
 A modern, neon-inspired version of the classic Snake game.  
 **Key Technologies:** HTML, CSS, JavaScript  
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://wgwhitecoding.github.io/snake/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -156,7 +156,7 @@ A modern, neon-inspired version of the classic Snake game.
 A gaming project demonstrating modern front-end and game development techniques.  
 **Key Technologies:** HTML, CSS, JavaScript  
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://wgwhitecoding.github.io/tech_game/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -171,7 +171,7 @@ A gaming project demonstrating modern front-end and game development techniques.
 A web application designed for running enthusiasts to track their progress and goals.  
 **Key Technologies:** HTML, CSS, JavaScript  
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://wgwhitecoding.github.io/Love-Running/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -186,7 +186,7 @@ A web application designed for running enthusiasts to track their progress and g
 A weather application that provides real-time weather updates for crew members.  
 **Key Technologies:** HTML, CSS, JavaScript, Weather API.
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://chrissylv.github.io/crew-weather/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
   </a>
@@ -201,7 +201,7 @@ A weather application that provides real-time weather updates for crew members.
 A fun, interactive trivia game based on the popular TV show.  
 **Key Technologies:** HTML, CSS, JavaScript, JSON, Trivia API.
 
-<div style="text-align: center;">
+<div align="center">
   
   <a href="https://wgwhitecoding.github.io/Who-Wants-To-Be-A-Millionaire/" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live">
@@ -217,11 +217,12 @@ A fun, interactive trivia game based on the popular TV show.
 A forever On-going beginner-friendly guide and repository for learning Python, designed to teach and deepen understanding of Python concepts. Created as a resource for learners while enhancing my own Python understanding.  
 **Key Technologies:** Python
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://github.com/wgwhitecoding/LearnPython" target="_blank" tabindex="-1">
       <img src="https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
 </div>
+
 
 
 
