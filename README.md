@@ -206,8 +206,6 @@ A fun, interactive trivia game based on the popular TV show.
 
 ## 🤝 Connect with Me
 
-
-
 <div align="center">
   <a href="https://github.com/wgwhitecoding" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -228,7 +226,8 @@ A fun, interactive trivia game based on the popular TV show.
 
 <div align="center">
 ✨ Feel free to reach out for collaborations, projects, or just a chat! ✨  
-🚀 Let’s connect and build something amazing together! 🚀
+
+ 🚀 Let’s connect and build something amazing together! 🚀
 </div>
 
 
