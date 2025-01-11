@@ -34,7 +34,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 <div align="center">
   <h2>🐍 Programming Languages</h2>
-  
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
@@ -42,16 +41,12 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
 </div>
 
----
-
 <div align="center">
 <h2>📚 Frameworks and Libraries</h2>
   
   <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
   <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 </div>
-
----
 
 <div align="center">
 <h2>⚙️ Tools and Platforms</h2>
@@ -61,8 +56,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
 </div>
 
----
-
 <div align="center">
 <h2>🛠️ Additional Tools</h2>
   
@@ -70,8 +63,6 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
   <a href="https://docs.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
   <a href="https://www.emailjs.com/docs/"><img src="https://img.shields.io/badge/Email.js-F6C915?style=for-the-badge&logo=javascript&logoColor=black" alt="Email.js"></a>
 </div>
-
----
 
 <div align="center">
 <h2>💻 Development Environment</h2>
