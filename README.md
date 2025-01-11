@@ -79,7 +79,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 ---
 
-### 🌐 Cool Sites Project
+### 🌐 <font color="#00A676">Cool Sites Project</font>
 A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, CMS, Email.js  
 
