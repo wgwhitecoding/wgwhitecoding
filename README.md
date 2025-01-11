@@ -41,6 +41,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 
 </div>
 <div align="center">
+  <!-- Programming Languages and Tools and Platforms -->
   <table style="border-collapse: collapse; width: 90%; margin: auto; table-layout: fixed;">
     <tr>
       <!-- Programming Languages -->
@@ -60,24 +61,8 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
           </tr>
         </table>
       </td>
-      <!-- Frameworks and Libraries -->
-      <td style="vertical-align: top; width: 50%; padding: 10px;">
-        <table style="border: 2px solid #333; width: 100%; margin: auto;">
-          <tr>
-            <th colspan="2" align="center" style="font-size: 1.5em;">📚 Frameworks and Libraries</th>
-          </tr>
-          <tr>
-            <td align="center">
-              <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-              <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
       <!-- Tools and Platforms -->
-      <td style="vertical-align: top; width: 33%; padding: 10px;">
+      <td style="vertical-align: top; width: 50%; padding: 10px;">
         <table style="border: 2px solid #333; width: 100%; margin: auto;">
           <tr>
             <th colspan="2" align="center" style="font-size: 1.5em;">⚙️ Tools and Platforms</th>
@@ -87,6 +72,28 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
               <a href="https://spark.apache.org/docs/latest/"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"></a>
               <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
               <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <!-- Other Three Sections -->
+  <table style="border-collapse: collapse; width: 90%; margin: auto; table-layout: fixed;">
+    <tr>
+      <!-- Frameworks and Libraries -->
+      <td style="vertical-align: top; width: 33%; padding: 10px;">
+        <table style="border: 2px solid #333; width: 100%; margin: auto;">
+          <tr>
+            <th colspan="2" align="center" style="font-size: 1.5em;">📚 Frameworks and Libraries</th>
+          </tr>
+          <tr>
+            <td align="center">
+              <a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+              <a href="https://getbootstrap.com/docs/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
             </td>
           </tr>
         </table>
@@ -124,6 +131,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
     </tr>
   </table>
 </div>
+
 
 
 ---
