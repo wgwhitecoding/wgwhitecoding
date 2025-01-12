@@ -211,6 +211,7 @@ A forever ongoing beginner-friendly guide and repository for learning Python, de
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+---
 
 ⭐️ Thanks for visiting! Feel free to explore my repositories, star any that interest you, and follow me for updates on my latest projects. 😊
 </div>
