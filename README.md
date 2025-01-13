@@ -1,5 +1,21 @@
-# Welcome to My GitHub Profile! 🤓
-
+<div align="center">
+ <h1>Welcome to My GitHub Profile! 🤓 </h1>  
+  <a href="https://www.linkedin.com/in/walidwillwhite/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:walidwillwhite@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
+    <img src="https://img.shields.io/badge/Want%20a%20Website%3F-00A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Want a Website?">
+  </a>
+  <a href="https://www.linkedin.com/company/techa-nalogy/?viewAsMember=true" target="_blank">
+    <img src="https://img.shields.io/badge/Tech--Analogy-FFD700?style=for-the-badge&logo=bulb&logoColor=white" alt="Tech-Analogy">
+  </a>
+</div>
 ## 👋 Hi, I'm Will!  
 I'm a passionate full-stack developer with a focus on creating elegant, user-centric websites and applications. With experience in web development, data engineering, and cybersecurity, I love bringing ideas to life through code and solving complex problems. 🚀
 
