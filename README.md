@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Welcome to My GitHub Profile! 🤓 </h1>  
+  <h1>Welcome to My GitHub Profile! 🤓</h1>
   <a href="https://www.linkedin.com/in/walidwillwhite/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Tech--Analogy-FFD700?style=for-the-badge&logo=bulb&logoColor=white" alt="Tech-Analogy">
   </a>
 </div>
+
 
 ---
 
@@ -208,6 +209,9 @@ A forever ongoing beginner-friendly guide and repository for learning Python, de
   </a>
   <a href="mailto:walidwillwhite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
