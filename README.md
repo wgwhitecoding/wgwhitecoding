@@ -213,9 +213,6 @@ A forever ongoing beginner-friendly guide and repository for learning Python, de
   <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://wgwhitecoding.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
-  </a>
   <a href="https://wgwhitecoding.github.io/CoolSites/" target="_blank">
     <img src="https://img.shields.io/badge/Want%20a%20Website%3F-00A676?style=for-the-badge&logo=firefox&logoColor=white" alt="Want a Website?">
   </a>
