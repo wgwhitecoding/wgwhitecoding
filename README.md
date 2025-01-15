@@ -161,7 +161,7 @@ A web application designed for running enthusiasts to track their progress and g
 ---
 
 ### [☀️ Crew Weather Project](https://chrissylv.github.io/crew-weather/)
-A weather application that provides real-time weather updates for crew members.  
+A weather application that provides real-time weather updates.  
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Weather API  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://chrissylv.github.io/crew-weather/) 
