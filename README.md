@@ -108,6 +108,7 @@ An innovative and exciting web app for designing and purchasing custom T-shirts.
 
 ### [🌐 Cool Sites Project](https://wgwhitecoding.github.io/CoolSites/)
 A professional web development project focused on creating custom websites for small businesses, tailored to their specific needs.  
+
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, CMS, Email.js  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/CoolSites/) 
@@ -117,6 +118,7 @@ A professional web development project focused on creating custom websites for s
 
 ### [🛠️ Cando CIfinal](https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/)
 An independently developed Django project featuring a Kanban board to showcase full-stack web development skills.  
+
 **Key Technologies:** Django, Python, JavaScript, Bootstrap, CSS  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://cando-ci-6dea2075e664.herokuapp.com/accounts/login/) 
@@ -126,6 +128,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 
 ### [💼 Portfolio Project](https://wgwhitecoding.github.io/portfolio/)
 A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
+
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Json, CENTIUMJS API  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/portfolio/) 
@@ -135,6 +138,7 @@ A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoi
 
 ### [🐠 Scubi Steve Project](https://wgwhitecoding.github.io/scubisteve/)
 A diving-themed project designed to cater to scuba diving enthusiasts.  
+
 **Key Technologies:** HTML, CSS, JavaScript  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/scubisteve/) 
@@ -144,6 +148,7 @@ A diving-themed project designed to cater to scuba diving enthusiasts.
 
 ### [🎮 Futuristic Glow Snake Game](https://wgwhitecoding.github.io/snake/)
 A modern, neon-inspired version of the classic Snake game.  
+
 **Key Technologies:** HTML, CSS, JavaScript  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/snake/) 
@@ -153,6 +158,7 @@ A modern, neon-inspired version of the classic Snake game.
 
 ### [🎯 Tech Game Project](https://wgwhitecoding.github.io/tech_game/)
 A gaming project demonstrating modern front-end and game development techniques.  
+
 **Key Technologies:** HTML, CSS, JavaScript  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/tech_game/) 
@@ -162,6 +168,7 @@ A gaming project demonstrating modern front-end and game development techniques.
 
 ### [🏃 Love Running Project](https://wgwhitecoding.github.io/Love-Running/)
 A web application designed for running enthusiasts to track their progress and goals.  
+
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/Love-Running/) 
@@ -171,6 +178,7 @@ A web application designed for running enthusiasts to track their progress and g
 
 ### [☀️ Crew Weather Project](https://chrissylv.github.io/crew-weather/)
 A weather application that provides real-time weather updates.  
+
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Weather API  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://chrissylv.github.io/crew-weather/) 
@@ -180,6 +188,7 @@ A weather application that provides real-time weather updates.
 
 ### [💡 Who Wants to Be a Millionaire Project](https://wgwhitecoding.github.io/Who-Wants-To-Be-A-Millionaire/)
 A fun, interactive trivia game based on the popular TV show.  
+
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, JSON, Trivia API  
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://wgwhitecoding.github.io/Who-Wants-To-Be-A-Millionaire/) 
@@ -189,6 +198,7 @@ A fun, interactive trivia game based on the popular TV show.
 
 ### [🐍 LearnPython](https://github.com/wgwhitecoding/LearnPython)
 A forever ongoing beginner-friendly guide and repository for learning Python, designed to teach and deepen understanding of Python concepts. Created as a resource for learners while enhancing my own Python understanding.  
+
 **Key Technologies:** Python  
 
 [![Repository](https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding/LearnPython)
