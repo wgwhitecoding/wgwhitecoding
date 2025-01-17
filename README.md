@@ -127,7 +127,7 @@ An independently developed Django project featuring a Kanban board to showcase f
 ---
 
 ### [💼 Portfolio Project](https://wgwhitecoding.github.io/portfolio/)
-A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  
+A personal portfolio showcasing my work, skills, and projects. *(Current / Ongoing)*  CATCH THE BE 🐝 AND A SECRET YOULL SEE 🤓
 
 **Key Technologies:** HTML, CSS, JavaScript, Bootstrap, Json, CENTIUMJS API  
 
