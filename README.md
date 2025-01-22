@@ -100,7 +100,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 ### [👕🧵 LaVérité - Custom T-Shirts Web App](https://laverite-f7af2555e68c.herokuapp.com/)  (Current early stages)
 An innovative and exciting web app for designing and purchasing custom T-shirts. This project is in its early stages and explores cutting-edge technologies like **Three.js**, **DecalGeometry.js**, and **GLB 3D models**. Users can personalise T-shirts by selecting colours, uploading prints, and previewing them interactively in a real-time 3D environment.
 
-**Key Technologies:** Django, HTML, CSS, JavaScript, Three.js, DecalGeometry.js, r110, GLB 3D models, Heroku.
+**Key Technologies:** Django, HTML, CSS, JavaScript, Three.js, DecalGeometry.js, r110, GLB 3D models, Heroku, Cloudinary.
 
 [![Try it Live](https://img.shields.io/badge/Try%20it%20Live-%2300A676?style=for-the-badge&logo=firefox&logoColor=white)](https://laverite-f7af2555e68c.herokuapp.com/) [![Repository](https://img.shields.io/badge/Repository-%232D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wgwhitecoding/LaVerite)
 
