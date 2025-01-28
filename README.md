@@ -40,7 +40,8 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
 - **Full-Stack Development Bootcamp** – [Code Institute](https://www.credential.net/836b8c9a-476f-41ca-a3be-abe512bdfd22#acc.wAy4P98S)  
   *Completed: Comprehensive training in full-stack web development, focusing on HTML, CSS, JavaScript, Python, and Django.*
    
-- **Level 5 Data Engineering Bootcamp** – [Iungo Solutions]([https://iungosolutions.com](https://www.linkedin.com/posts/walidwillwhite_dataengineering-skillsbootcamp-iungosolutions-activity-7290006506761011200-0edI?utm_source=share&utm_medium=member_desktop)) *(Ongoing)*  
+- **Level 5 Data Engineering Bootcamp** – [Iungo Solutions](https://iungosolutions.com](https://www.linkedin.com/posts/walidwillwhite_dataengineering-skillsbootcamp-iungosolutions-activity-7290006506761011200-0edI?utm_source=share&utm_medium=member_desktop))
+   
   *Advanced training in data engineering, including building ETL pipelines, data processing, and SQL.*
   
 - **Cybersecurity Bootcamp** – [HyperionDev](https://www.hyperiondev.com) *(Ongoing)*  
