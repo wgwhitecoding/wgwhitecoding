@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/company/techa-nalogy/?viewAsMember=true" target="_blank">
     <img src="https://img.shields.io/badge/Tech--Analogy-FFD700?style=for-the-badge&logo=bulb&logoColor=white" alt="Tech-Analogy">
   </a>
-  <P>Scroll down to checkout some of my peojects</P>
+  <h3>Scroll down to checkout some of my peojects</h3>
 </div>
                                                   
 ---
