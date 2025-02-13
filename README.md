@@ -44,7 +44,7 @@ Explore my repositories and feel free to connect. I’m always eager to collabor
    
   *Advanced training in data engineering, including building ETL pipelines, data processing, and SQL.*
   
-- **Cybersecurity Bootcamp** – [HyperionDev](https://www.hyperiondev.com) *(Ongoing)*  
+- **Cybersecurity Bootcamp** – [HyperionDev](https://www.hyperiondev.com/portfolio/WW24090016272/) *(Ongoing)*  
   *Foundational and practical training in cybersecurity, including network security, ethical hacking, and system hardening.*
 ---
 
